@@ -336,7 +336,7 @@ $loc_sec = (isset($nokri['emp_loc_switch'])) ? $nokri['emp_loc_switch'] : false;
                             echo '
                                 <script>
                                     function myMap() {
-                                    const myLatLng = { lat: ' . esc_attr($ad_map_lat) . ',lng: ' . esc_attr($ad_map_long)  . ' };
+                                        const myLatLng = { lat: ' . esc_attr($ad_map_lat) . ', lng: ' . esc_attr($ad_map_long) . ' };
                                         var mapProp = {
                                             center: new google.maps.LatLng(' . esc_attr($ad_map_lat) . ', ' . esc_attr($ad_map_long) . '),
                                             zoom: 10,
@@ -344,12 +344,16 @@ $loc_sec = (isset($nokri['emp_loc_switch'])) ? $nokri['emp_loc_switch'] : false;
                                         };
                                         var map = new google.maps.Map(document.getElementById("googleMap"), mapProp);
                                         const marker = new google.maps.Marker({
-                                        position: myLatLng,
-                                        map: map,
-                                      });    
-                                }
-                                </script> 
-                               <script src="https://maps.googleapis.com/maps/api/js?key=' . esc_attr($api_key ). '&libraries=places&callback=' . esc_attr($call_back) . '" type="text/javascript"></script>';
+                                            position: myLatLng,
+                                            map: map,
+                                        });
+                                    }
+                                    document.addEventListener("DOMContentLoaded", function(){
+                                        if (typeof nokriLoadGmap === "function") {
+                                            nokriLoadGmap().then(myMap).catch(function(err){ console.error(err); });
+                                        }
+                                    });
+                                </script>';
                         }
                         if ($mapType == 'leafletjs_map') {
                             ?>
