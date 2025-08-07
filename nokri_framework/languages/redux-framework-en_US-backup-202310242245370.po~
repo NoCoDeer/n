@@ -1,0 +1,3687 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Project-Id-Version: Nokri Framework\n"
+"POT-Creation-Date: 2023-10-24 20:07+0000\n"
+"PO-Revision-Date: 2023-10-24 22:44+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"Language: en_US\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.6.6; wp-6.3.2"
+
+#: cpt/custom-feilds.php:173 cpt/custom-feilds.php:271
+msgid " Enter Field Label"
+msgstr ""
+
+#: user_profile/index.php:29
+msgid " Jobs"
+msgstr ""
+
+#: user_profile/index.php:58
+msgid " Package expiry (Y-mm-dd)"
+msgstr ""
+
+#. %s: HTML.
+#: redux-framework/inc/welcome/views/templates.php:34
+msgid " Template Libraries"
+msgstr ""
+
+#. %s: Filename.
+#: redux-framework/inc/extensions/multi_media/multi_media/class-redux-multi-media.php:236
+#, php-format
+msgid "%s already exists in your file queue."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-cdn.php:134
+#, php-format
+msgid "%s CDN unavailable.  Some controls may not render properly."
+msgstr ""
+
+#. Number of days
+#: redux-framework/inc/classes/class-redux-user-feedback.php:117
+#, php-format
+msgid "%s days"
+msgstr ""
+
+#. Number of hours
+#: redux-framework/inc/classes/class-redux-user-feedback.php:126
+#, php-format
+msgid "%s hours"
+msgstr ""
+
+#. Number of minutes
+#: redux-framework/inc/classes/class-redux-user-feedback.php:135
+#, php-format
+msgid "%s minutes"
+msgstr ""
+
+#. Number of seconds
+#: redux-framework/inc/classes/class-redux-user-feedback.php:144
+#, php-format
+msgid "%s seconds"
+msgstr ""
+
+#. Number of weeks
+#: redux-framework/inc/classes/class-redux-user-feedback.php:108
+#, php-format
+msgid "%s weeks"
+msgstr ""
+
+#. 1. Name
+#: redux-framework/inc/classes/class-redux-user-feedback.php:278
+#, php-format
+msgid "%s WordPress Plugin"
+msgstr ""
+
+#. Number of years
+#: redux-framework/inc/classes/class-redux-user-feedback.php:99
+#, php-format
+msgid "%s years"
+msgstr ""
+
+#: cpt/custom-feilds.php:210 cpt/job-board.php:946
+msgid "+ Add More"
+msgstr ""
+
+#: index.php:346 index.php:354
+msgid "-1 means never experied unless used it."
+msgstr ""
+
+#: index.php:381
+msgid "-1 means unlimited searches"
+msgstr ""
+
+#: job_post/custom-category-templates.php:550
+msgid "1/12 Column"
+msgstr ""
+
+#: job_post/custom-category-templates.php:552
+msgid "1/3 Column"
+msgstr ""
+
+#: job_post/custom-category-templates.php:553
+msgid "1/4 Column"
+msgstr ""
+
+#: job_post/custom-category-templates.php:551
+msgid "1/6 Column"
+msgstr ""
+
+#: functions.php:1193
+msgid "10 years"
+msgstr ""
+
+#: functions.php:1194
+msgid "11 years"
+msgstr ""
+
+#: functions.php:1195
+msgid "12 years"
+msgstr ""
+
+#: functions.php:1196
+msgid "13 years"
+msgstr ""
+
+#: functions.php:1197
+msgid "14 years"
+msgstr ""
+
+#: functions.php:1198
+msgid "15 years"
+msgstr ""
+
+#: functions.php:1199
+msgid "16 years"
+msgstr ""
+
+#: functions.php:1200
+msgid "17 years"
+msgstr ""
+
+#: functions.php:1201
+msgid "18 years"
+msgstr ""
+
+#: functions.php:1202
+msgid "19 years"
+msgstr ""
+
+#: functions.php:1203
+msgid "20 years"
+msgstr ""
+
+#: functions.php:1204
+msgid "21 years"
+msgstr ""
+
+#: functions.php:1205
+msgid "22 years"
+msgstr ""
+
+#: functions.php:1206
+msgid "23 years"
+msgstr ""
+
+#: functions.php:1207
+msgid "24 years"
+msgstr ""
+
+#: functions.php:1208
+msgid "25 years"
+msgstr ""
+
+#: functions.php:1209
+msgid "26 years"
+msgstr ""
+
+#: functions.php:1210
+msgid "27 years"
+msgstr ""
+
+#: functions.php:1211
+msgid "28 years"
+msgstr ""
+
+#: functions.php:1212
+msgid "29 years"
+msgstr ""
+
+#: functions.php:1213
+msgid "30 years"
+msgstr ""
+
+#: functions.php:1214
+msgid "31 years"
+msgstr ""
+
+#: functions.php:1215
+msgid "32 years"
+msgstr ""
+
+#: functions.php:1216
+msgid "33 years"
+msgstr ""
+
+#: functions.php:1217
+msgid "34 years"
+msgstr ""
+
+#: functions.php:1218
+msgid "35 years"
+msgstr ""
+
+#: functions.php:1219
+msgid "36 years"
+msgstr ""
+
+#: functions.php:1220
+msgid "37 years"
+msgstr ""
+
+#: functions.php:1221
+msgid "38 years"
+msgstr ""
+
+#: functions.php:1222
+msgid "39 years"
+msgstr ""
+
+#: functions.php:1223
+msgid "40 years"
+msgstr ""
+
+#: functions.php:1224
+msgid "41 years"
+msgstr ""
+
+#: functions.php:1225
+msgid "42 years"
+msgstr ""
+
+#: functions.php:1226
+msgid "43 years"
+msgstr ""
+
+#: functions.php:1227
+msgid "44 years"
+msgstr ""
+
+#: functions.php:1228
+msgid "45 years"
+msgstr ""
+
+#: functions.php:1190
+msgid "5 years"
+msgstr ""
+
+#: functions.php:1229
+msgid "50 years"
+msgstr ""
+
+#: functions.php:1191
+msgid "7 years"
+msgstr ""
+
+#: functions.php:1192
+msgid "9 years"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-wordpress-data.php:358
+msgid "[unassigned]"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-user-feedback.php:119
+msgid "a day"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-user-feedback.php:137
+msgid "a minute"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-user-feedback.php:146
+msgid "a second"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-user-feedback.php:110
+msgid "a week"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-user-feedback.php:101
+msgid "a year"
+msgstr ""
+
+#: user_profile/index.php:370
+msgid "About Candidate"
+msgstr ""
+
+#: user_profile/index.php:216
+msgid "About Employer"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-cdn.php:182
+msgid "activated."
+msgstr ""
+
+#: job_post/custom-category-templates.php:573
+#: redux-framework/inc/fields/link_color/class-redux-link-color.php:131
+msgid "Active"
+msgstr ""
+
+#: job_post/index.php:27
+msgid "Ad Type"
+msgstr ""
+
+#: redux-framework/inc/extensions/repeater/repeater/class-redux-repeater.php:242
+msgid "Add"
+msgstr ""
+
+#. Content title for accordion.
+#: redux-framework/inc/fields/slides/class-redux-slides.php:363
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: redux-framework/inc/extensions/custom_fonts/custom_fonts/class-redux-custom-fonts.php:109
+#: redux-framework/inc/extensions/custom_fonts/custom_fonts/class-redux-custom-fonts.php:112
+msgid "Add Font"
+msgstr ""
+
+#: cpt/job-board.php:1236
+msgid "Add job expiry date"
+msgstr ""
+
+#: redux-framework/inc/fields/multi_text/class-redux-multi-text.php:28
+msgid "Add More"
+msgstr ""
+
+#: job_post/custom-category-templates.php:151
+msgid "Add More Fields"
+msgstr ""
+
+#: cpt/custom-feilds.php:15
+msgid "Add New"
+msgstr ""
+
+#: cpt/custom-feilds.php:14 job_post/custom-category-templates.php:644
+msgid "Add New Item"
+msgstr ""
+
+#: job_post/custom-category-templates.php:649
+msgid "Add or remove items"
+msgstr ""
+
+#: redux-framework/inc/extensions/multi_media/multi_media/class-redux-multi-media.php:32
+msgid "Add or Upload File(s)"
+msgstr ""
+
+#: cpt/job-board.php:883
+msgid "Add Questionnaire"
+msgstr ""
+
+#: redux-framework/inc/fields/gallery/class-redux-gallery.php:48
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: redux-framework/inc/extensions/google_maps/google_maps/class-redux-google-maps.php:184
+#: redux-framework/inc/extensions/google_maps/google_maps/class-redux-google-maps.php:202
+msgid "Address"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:30
+msgid "ADN"
+msgstr ""
+
+#: functions.php:1244 functions.php:1517
+msgid "Age"
+msgstr ""
+
+#: redux-framework/inc/fields/border/class-redux-border.php:106
+#: redux-framework/inc/fields/spacing/class-redux-spacing.php:165
+#: redux-framework/inc/extensions/google_maps/google_maps/class-redux-google-maps.php:178
+msgid "All"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-panel.php:187
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: cpt/custom-feilds.php:13 job_post/custom-category-templates.php:640
+msgid "All Items"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-user-feedback.php:128
+msgid "an hour"
+msgstr ""
+
+#: redux-framework/inc/extensions/custom_fonts/custom_fonts/class-redux-custom-fonts.php:181
+msgid "An unknown error occurred. Please try again."
+msgstr ""
+
+#: redux-framework/templates/panel/header.tpl.php:31
+msgid "and"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:40
+msgid "Android"
+msgstr ""
+
+#: redux-framework/inc/extensions/google_maps/google_maps/class-redux-google-maps.php:336
+msgid "API Key"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:50
+msgid "Apple"
+msgstr ""
+
+#: cpt/job-board.php:540
+msgid "Application deadline"
+msgstr ""
+
+#: cpt/job-board.php:549
+msgid "Apply With Link"
+msgstr ""
+
+#. 1. Name
+#: redux-framework/inc/classes/class-redux-user-feedback.php:282
+#, php-format
+msgid "Are you enjoying %s?"
+msgstr ""
+
+#: cpt/job-board.php:1050
+msgid "Are You Sure ?"
+msgstr ""
+
+#: job_post/custom-category-templates.php:681
+msgid "Are You sure you want to remove this field."
+msgstr ""
+
+#: redux-framework/inc/extensions/customizer/class-redux-extension-customizer.php:751
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-enqueue.php:659
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-enqueue.php:643
+#: redux-framework/inc/extensions/customizer/class-redux-extension-customizer.php:727
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-args.php:345
+#: redux-framework/inc/classes/class-redux-args.php:362
+msgid ""
+"argument.  This is sample data.  Please change or remove this data before "
+"shipping your product."
+msgstr ""
+
+#: cpt/job-board.php:425
+msgid "Assign job"
+msgstr ""
+
+#: redux-framework/inc/extensions/custom_fonts/class-redux-extension-custom-fonts.php:441
+msgid "Attachment does not exist."
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:794
+msgid "Automated updates"
+msgstr ""
+
+#: redux-framework/inc/extensions/customizer/inc/class-redux-customizer-panel.php:193
+#: redux-framework/inc/extensions/customizer/inc/class-redux-customizer-section.php:181
+msgid "Back"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/class-redux-social-profiles.php:247
+msgid "Background"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:208
+msgid "Background Attachment"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:156
+msgid "Background Clip"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:174
+msgid "Background Origin"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:231
+msgid "Background Position"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:138
+msgid "Background Repeat"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:191
+msgid "Background Size"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:364
+#: redux-framework/inc/fields/typography/class-redux-typography.php:366
+msgid "Backup Font Family"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:61
+msgid "behance"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:71
+msgid "behance square"
+msgstr ""
+
+#: redux-extensions/extensions-init.php:25
+msgid ""
+"Best if used on new WordPress install & this theme requires PHP version 7.0+"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:81
+msgid "Bitbucket"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:91
+msgid "Bitbucket square"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:101
+msgid "Bitcoin"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:554
+msgid "blink"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:856
+#: redux-framework/inc/fields/typography/class-redux-typography.php:865
+msgid "Blur"
+msgstr ""
+
+#: redux-framework/inc/fields/box_shadow/class-redux-box-shadow.php:168
+msgid "Blur Radius"
+msgstr ""
+
+#: redux-framework/inc/fields/box_shadow/class-redux-box-shadow.php:159
+msgid "Blur Radius "
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-args.php:142
+msgid "Bold 700"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-args.php:146
+msgid "Bold 700 Italic"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:151
+#: redux-framework/inc/fields/background/class-redux-background.php:169
+msgid "Border Box"
+msgstr ""
+
+#: redux-framework/inc/fields/border/class-redux-border.php:176
+msgid "Border style"
+msgstr ""
+
+#: redux-framework/inc/fields/border/class-redux-border.php:147
+#: redux-framework/inc/fields/spacing/class-redux-spacing.php:255
+#: redux-framework/inc/fields/typography/class-redux-typography.php:706
+msgid "Bottom"
+msgstr ""
+
+#: redux-framework/class-redux-core.php:340
+msgid "Browser"
+msgstr ""
+
+#: job_post/custom-category-templates.php:1212
+msgid "Bump Ad"
+msgstr ""
+
+#: job_post/custom-category-templates.php:1297
+msgid "Bump Ads"
+msgstr ""
+
+#: index.php:343 user_profile/index.php:69
+msgid "Bump up job limit"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/about.php:86
+#: redux-framework/inc/welcome/views/about.php:139
+msgid "By"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:473
+#, php-format
+msgid ""
+"By clicking the <strong>Register</strong> button, you agree to our <a "
+"href=\"%1$s\" target=\"_blank\">terms of service</a>, to create an account, "
+"and to share details of your usage metrics with Redux.io.  We may also "
+"occasionally send you emails with product updates, special offers, or other "
+"marketing content."
+msgstr ""
+
+#: cpt/job-board.php:287
+msgid "CA"
+msgstr ""
+
+#: redux-framework/inc/extensions/widget_areas/class-redux-widget-areas.php:297
+#: redux-framework/inc/fields/color_rgba/class-redux-color-rgba.php:43
+msgid "Cancel"
+msgstr ""
+
+#: functions.php:1186 functions.php:1548 index.php:312 cpt/custom-feilds.php:92
+#: user_profile/index.php:118
+msgid "Candidate"
+msgstr ""
+
+#: user_profile/index.php:88
+msgid "Candidates Resumes Access"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:491
+msgid "capitalize"
+msgstr ""
+
+#: cpt/job-board.php:38 job_post/custom-category-templates.php:1218
+msgid "Categories"
+msgstr ""
+
+#: job_post/custom-category-templates.php:1198
+msgid "Categories Based Template"
+msgstr ""
+
+#: job_post/custom-category-templates.php:639
+msgid "Category Templates"
+msgstr ""
+
+#: job_post/custom-category-templates.php:1193
+msgid "Category Type/Adosn"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:462
+msgid "center"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:225
+msgid "Center Bottom"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:224
+msgid "Center Center"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:223
+msgid "Center Top"
+msgstr ""
+
+#: redux-framework/framework.php:407 redux-framework/framework.php:416
+msgid "Cheatin&#8217; eh?"
+msgstr ""
+
+#: redux-framework/inc/fields/color_rgba/class-redux-color-rgba.php:42
+msgid "Choose"
+msgstr ""
+
+#: redux-framework/inc/extensions/custom_fonts/custom_fonts/class-redux-custom-fonts.php:183
+msgid "Choose Font file or ZIP of font files."
+msgstr ""
+
+#: job_post/custom-category-templates.php:650
+msgid "Choose from the most used"
+msgstr ""
+
+#: redux-framework/inc/themecheck/checks/class-redux-full-package.php:49
+msgid "CI Testing FIle"
+msgstr ""
+
+#: redux-framework/inc/extensions/google_maps/google_maps/class-redux-google-maps.php:228
+msgid "City"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-field.php:41
+msgid "Class"
+msgstr ""
+
+#: redux-framework/inc/fields/gallery/class-redux-gallery.php:49
+msgid "Clear Gallery"
+msgstr ""
+
+#: functions.php:1983
+msgid "Click the box below to upload job attachments!"
+msgstr ""
+
+#: job_post/custom-category-templates.php:508
+msgid "Click to toggle"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-page-render.php:188
+msgid "clicking"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:111
+msgid "CodePen"
+msgstr ""
+
+#: job_post/custom-category-templates.php:491
+msgid "Columns"
+msgstr ""
+
+#: user_profile/index.php:147
+msgid "Company Tagline"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-field.php:42
+msgid "Compiler"
+msgstr ""
+
+#: redux-framework/inc/extensions/widget_areas/class-redux-widget-areas.php:296
+msgid "Confirm"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:188
+msgid "Contain"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:152
+#: redux-framework/inc/fields/background/class-redux-background.php:170
+msgid "Content Box"
+msgstr ""
+
+#: cpt/job-board.php:1202
+msgid "contract"
+msgstr ""
+
+#. %1$s: Settings page URL.  %2$s: Closing a tag.
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-widget.php:213
+#, php-format
+msgid ""
+"Control which icons are displayed and their urls on the %1$sssettings "
+"page%2$s"
+msgstr ""
+
+#: redux-framework/inc/extensions/custom_fonts/custom_fonts/class-redux-custom-fonts.php:182
+msgid "Conversion complete.  Refreshing page..."
+msgstr ""
+
+#: redux-framework/inc/extensions/custom_fonts/custom_fonts/class-redux-custom-fonts.php:179
+msgid "Converting font file(s)..."
+msgstr ""
+
+#: redux-framework/inc/extensions/import_export/import_export/class-redux-import-export.php:132
+msgid "Copied!"
+msgstr ""
+
+#: redux-framework/inc/extensions/import_export/import_export/class-redux-import-export.php:131
+#: redux-framework/inc/extensions/import_export/import_export/class-redux-import-export.php:133
+msgid "Copy to Clipboard"
+msgstr ""
+
+#: redux-framework/inc/extensions/google_maps/google_maps/class-redux-google-maps.php:270
+msgid "Country"
+msgstr ""
+
+#: cpt/job-board.php:286
+msgid "County"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:187
+msgid "Cover"
+msgstr ""
+
+#: cpt/custom-feilds.php:135
+msgid "Create Custom Fields Below"
+msgstr ""
+
+#: redux-framework/inc/extensions/widget_areas/class-redux-widget-areas.php:89
+#: redux-framework/inc/extensions/widget_areas/class-redux-widget-areas.php:106
+msgid "Create Widget Area"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:121
+msgid "CSS3"
+msgstr ""
+
+#: cpt/job-board.php:102
+msgid "Currency"
+msgstr ""
+
+#: cpt/custom-feilds.php:9 cpt/custom-feilds.php:35
+msgid "Custom Feild"
+msgstr ""
+
+#: cpt/custom-feilds.php:8
+msgid "Custom Fields"
+msgstr ""
+
+#: cpt/custom-feilds.php:73
+msgid "Custom Fields For"
+msgstr ""
+
+#: redux-framework/inc/extensions/custom_fonts/class-redux-extension-custom-fonts.php:250
+#: redux-framework/inc/extensions/custom_fonts/class-redux-extension-custom-fonts.php:308
+msgid "Custom Fonts"
+msgstr ""
+
+#: redux-framework/inc/extensions/customizer/inc/class-redux-customizer-section.php:146
+msgid "Customizing"
+msgstr ""
+
+#. &#9656; is the unicode right-pointing triangle, and %s is the section title in the Customizer
+#: redux-framework/inc/extensions/customizer/inc/class-redux-customizer-section.php:144
+#, php-format
+msgid "Customizing &#9656; %s"
+msgstr ""
+
+#: redux-framework/inc/fields/border/class-redux-border.php:170
+msgid "Dashed"
+msgstr ""
+
+#: redux-framework/class-redux-core.php:336
+msgid "Data directory"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-health.php:87
+msgid "Data transmit"
+msgstr ""
+
+#: cpt/custom-feilds.php:168 cpt/custom-feilds.php:271 cpt/job-board.php:1215
+msgid "Date"
+msgstr ""
+
+#: job_post/custom-category-templates.php:531
+msgid "Date - Input"
+msgstr ""
+
+#: user_profile/index.php:281
+msgid "Date Of Birth (mm/dd/yyyy)"
+msgstr ""
+
+#. %s = Instance name w/ HTML.
+#: redux-framework/class-redux-core.php:375
+#, php-format
+msgid "Debug information for the %s Redux instance."
+msgstr ""
+
+#: redux-framework/class-redux-core.php:325
+msgid "Debug information specific to Redux Framework."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-field.php:43
+#: redux-framework/inc/classes/class-redux-page-render.php:993
+msgid "Default"
+msgstr ""
+
+#: cpt/job-board.php:1227
+msgid "Default 10 ,you can enter maximum  25"
+msgstr ""
+
+#: job_post/custom-category-templates.php:851
+msgid "Default Template"
+msgstr ""
+
+#: cpt/job-board.php:1045
+msgid "DELETE"
+msgstr ""
+
+#: redux-framework/inc/extensions/widget_areas/class-redux-widget-areas.php:295
+#: redux-framework/inc/fields/slides/class-redux-slides.php:215
+#: redux-framework/inc/fields/slides/class-redux-slides.php:351
+#: redux-framework/inc/extensions/custom_fonts/custom_fonts/class-redux-custom-fonts.php:99
+#: redux-framework/inc/extensions/repeater/repeater/class-redux-repeater.php:167
+#: redux-framework/inc/extensions/repeater/repeater/class-redux-repeater.php:219
+#: redux-framework/inc/extensions/repeater/repeater/class-redux-repeater.php:393
+msgid "Delete"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:131
+msgid "Delicious"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:247
+msgid "Demo Already Imported"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:87
+msgid "Demo Imported"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:274
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:276
+msgid "Demo Importer"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-field.php:40
+#: redux-framework/inc/fields/slides/class-redux-slides.php:140
+#: redux-framework/inc/fields/slides/class-redux-slides.php:276
+msgid "Description"
+msgstr ""
+
+#: redux-framework/templates/panel/header.tpl.php:11
+#: redux-framework/templates/panel/header.tpl.php:48
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:141
+msgid "Deviantart"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/about.php:39
+msgid "Did I install this?"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:151
+msgid "Digg"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-page-render.php:179
+msgid "Disable"
+msgstr ""
+
+#: redux-framework/inc/welcome/class-redux-welcome.php:261
+msgid "Disable Panel Demo"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-field.php:44
+msgid "Disabled"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-admin-notices.php:136
+msgid "Dismiss"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:390
+msgid "Dismiss this notice"
+msgstr ""
+
+#: redux-framework/inc/fields/text/class-redux-text.php:29
+msgid "Display a qTip div when active on the text field."
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-widget.php:102
+msgid "Display social media links"
+msgstr ""
+
+#: redux-framework/inc/fields/border/class-redux-border.php:171
+msgid "Dotted"
+msgstr ""
+
+#: redux-framework/inc/fields/border/class-redux-border.php:172
+msgid "Double"
+msgstr ""
+
+#: redux-framework/inc/extensions/multi_media/multi_media/class-redux-multi-media.php:148
+#: redux-framework/inc/extensions/multi_media/multi_media/class-redux-multi-media.php:232
+msgid "Download"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:905
+msgid "Downloading Google Fonts..."
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:161
+msgid "Dribbble"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:171
+msgid "Dropbox"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:181
+msgid "Drupal"
+msgstr ""
+
+#: cpt/custom-feilds.php:285 job_post/custom-category-templates.php:773
+msgid "Duplicate Slug Name"
+msgstr ""
+
+#: cpt/custom-feilds.php:179 job_post/custom-category-templates.php:591
+msgid "Edit"
+msgstr ""
+
+#: cpt/custom-feilds.php:17 job_post/custom-category-templates.php:645
+msgid "Edit Item"
+msgstr ""
+
+#: cpt/job-board.php:1552
+msgid "Email : "
+msgstr ""
+
+#: functions.php:387
+msgid "Email is not resgistered with us."
+msgstr ""
+
+#: functions.php:384
+msgid "Email server not responding"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:191
+msgid "Empire"
+msgstr ""
+
+#: functions.php:1185 functions.php:1550 index.php:307 cpt/custom-feilds.php:93
+#: user_profile/index.php:113
+msgid "Employer"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-page-render.php:174
+msgid "Enable"
+msgstr ""
+
+#: redux-framework/inc/welcome/class-redux-welcome.php:267
+msgid "Enable Panel Demo"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/class-redux-social-profiles.php:217
+msgid "Enabled"
+msgstr ""
+
+#: cpt/job-board.php:1266
+msgid "End date"
+msgstr ""
+
+#. 1: Redux, 2: Link to plugin review
+#: redux-framework/inc/classes/class-redux-args.php:269
+#, php-format
+msgid ""
+"Enjoyed %1$s? Please leave us a %2$s rating. We really appreciate your "
+"support!"
+msgstr ""
+
+#: cpt/job-board.php:607
+msgid "Enter Email"
+msgstr ""
+
+#: job_post/custom-category-templates.php:584
+msgid "Enter Field title here."
+msgstr ""
+
+#: cpt/job-board.php:926 cpt/job-board.php:937 cpt/job-board.php:1045
+msgid "Enter Question"
+msgstr ""
+
+#: cpt/custom-feilds.php:179 job_post/custom-category-templates.php:592
+msgid ""
+"Enter the slug name, it must be unique and chage it with causion. only alpha "
+"numeric and _"
+msgstr ""
+
+#: cpt/job-board.php:609
+msgid "Enter valid email"
+msgstr ""
+
+#: cpt/job-board.php:622
+msgid "Enter valid Whatsapp number"
+msgstr ""
+
+#: job_post/custom-category-templates.php:493
+msgid "Enter Values"
+msgstr ""
+
+#: cpt/custom-feilds.php:182
+msgid "Enter Values (Separate each value with | sign)"
+msgstr ""
+
+#: cpt/custom-feilds.php:271
+msgid "Enter Values (Separate each value with | sign) "
+msgstr ""
+
+#: job_post/custom-category-templates.php:600
+msgid "Enter Values seprated by "
+msgstr ""
+
+#: redux-framework/inc/extensions/google_maps/google_maps/class-redux-google-maps.php:116
+msgid "Enter your address"
+msgstr ""
+
+#: redux-framework/inc/extensions/custom_fonts/custom_fonts/class-redux-custom-fonts.php:79
+msgid "Error"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-panel.php:270
+#: redux-framework/inc/extensions/metaboxes/class-redux-extension-metaboxes.php:1221
+#: redux-framework/inc/extensions/metaboxes/class-redux-extension-metaboxes.php:1527
+msgid "error(s) were found!"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:207
+msgid "Error: Install URL for Extendify could not be located."
+msgstr ""
+
+#: user_profile/index.php:171
+msgid "Established Date"
+msgstr ""
+
+#: redux-framework/templates/panel/header-stickybar.tpl.php:16
+#: redux-framework/inc/extensions/metaboxes/class-redux-extension-metaboxes.php:1230
+msgid "Expand"
+msgstr ""
+
+#: cpt/job-board.php:93 user_profile/index.php:295
+msgid "Experience"
+msgstr ""
+
+#: index.php:327 index.php:337 job_post/custom-category-templates.php:1286
+msgid "Expiry in days, -1 means never experied unless used it."
+msgstr ""
+
+#: functions.php:1312
+msgid "Export Candidates Record"
+msgstr ""
+
+#: functions.php:1372
+msgid "Export Employees Record"
+msgstr ""
+
+#: redux-framework/inc/extensions/import_export/import_export/class-redux-import-export.php:136
+msgid "Export File"
+msgstr ""
+
+#: redux-framework/inc/extensions/import_export/import_export/class-redux-import-export.php:120
+msgid "Export Options"
+msgstr ""
+
+#: cpt/job-board.php:1267
+msgid "Export Record"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:243
+msgid "Extendify activation failed."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:251
+msgid "Extendify installed and activated."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/templates.php:45
+msgid "Extendify Template Library"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:201
+msgid "Facebook"
+msgstr ""
+
+#: user_profile/index.php:177 user_profile/index.php:340
+msgid "Facebook Link"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:211
+msgid "Facebook square"
+msgstr ""
+
+#: job_post/index.php:38
+msgid "Featured"
+msgstr ""
+
+#: job_post/custom-category-templates.php:1209
+msgid "Featured Ad"
+msgstr ""
+
+#: job_post/custom-category-templates.php:1293
+msgid "Featured Ads"
+msgstr ""
+
+#: cpt/custom-feilds.php:24
+msgid "Featured Image"
+msgstr ""
+
+#: user_profile/index.php:48 user_profile/index.php:77
+msgid "Featured profile (Y-mm-dd)"
+msgstr ""
+
+#: index.php:351
+msgid "Featured profile days"
+msgstr ""
+
+#: functions.php:1236 user_profile/index.php:263
+msgid "Female"
+msgstr ""
+
+#. %1$s is the field ID, %2$s is the field type.
+#: redux-framework/inc/classes/class-redux-page-render.php:517
+#, php-format
+msgid "Field %1$s could not be displayed. Field type %2$s was not found."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-field.php:37
+msgid "Field ID"
+msgstr ""
+
+#: redux-framework/inc/extensions/repeater/repeater/class-redux-repeater.php:160
+msgid "field is not supported within the Repeater field."
+msgstr ""
+
+#: job_post/custom-category-templates.php:40
+#: job_post/custom-category-templates.php:115
+#: job_post/custom-category-templates.php:489
+msgid "Field Name"
+msgstr ""
+
+#. %1$s: Upload URL.  %2$s: Codex URL.
+#: redux-framework/inc/classes/class-redux-filesystem.php:142
+#: redux-framework/inc/classes/class-redux-filesystem.php:436
+msgid "File Permission Issues"
+msgstr ""
+
+#: redux-framework/inc/extensions/custom_fonts/class-redux-extension-custom-fonts.php:561
+msgid "File type not recognized."
+msgstr ""
+
+#: redux-framework/inc/extensions/multi_media/multi_media/class-redux-multi-media.php:146
+#: redux-framework/inc/extensions/multi_media/multi_media/class-redux-multi-media.php:231
+msgid "File: "
+msgstr ""
+
+#: functions.php:1251
+msgid "Filter"
+msgstr ""
+
+#: cpt/custom-feilds.php:32
+msgid "Filter items list"
+msgstr ""
+
+#: redux-framework/inc/lib/image-filters/class-redux-image-filters.php:55
+msgid "Filters"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:203
+msgid "Fixed"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:221
+msgid "Flickr"
+msgstr ""
+
+#: redux-framework/inc/fields/link_color/class-redux-link-color.php:153
+msgid "Focus"
+msgstr ""
+
+#: redux-framework/inc/themecheck/checks/class-redux-full-package.php:63
+msgid ""
+"folder. Embedding anything else will get your rejected from theme submission."
+" Suspected Redux package file(s):"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:732
+msgid "Font Color"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:739
+msgid "Font color"
+msgstr ""
+
+#: redux-framework/inc/extensions/custom_fonts/class-redux-extension-custom-fonts.php:876
+#: redux-framework/inc/extensions/custom_fonts/class-redux-extension-custom-fonts.php:885
+msgid "Font Control"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:323
+msgid "Font Family"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:325
+msgid "Font family"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:431
+msgid "Font script"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:569
+#: redux-framework/inc/fields/typography/class-redux-typography.php:574
+msgid "Font Size"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:385
+#: redux-framework/inc/fields/typography/class-redux-typography.php:405
+msgid "Font style"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:426
+msgid "Font Subsets"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:418
+msgid "Font subsets"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:507
+#: redux-framework/inc/fields/typography/class-redux-typography.php:508
+#: redux-framework/inc/fields/typography/class-redux-typography.php:510
+#: redux-framework/inc/fields/typography/class-redux-typography.php:512
+msgid "Font Variant"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:386
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: cpt/job-board.php:287
+msgid "for Canada"
+msgstr ""
+
+#: cpt/job-board.php:287
+msgid "for USA and"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:231
+msgid "FourSquare"
+msgstr ""
+
+#: redux-framework/inc/lib/gradient-filters/class-redux-gradient-filters.php:91
+msgid "From Reach"
+msgstr ""
+
+#: redux-framework/inc/lib/gradient-filters/class-redux-gradient-filters.php:82
+msgid "From Reach "
+msgstr ""
+
+#: cpt/job-board.php:1200
+msgid "Full time"
+msgstr ""
+
+#: functions.php:1245 user_profile/index.php:251
+msgid "Gender"
+msgstr ""
+
+#: redux-framework/inc/extensions/google_maps/google_maps/class-redux-google-maps.php:187
+msgid "Geo"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:414
+msgid "Get access to even more free templates!"
+msgstr ""
+
+#: redux-framework/inc/extensions/google_maps/google_maps/class-redux-google-maps.php:329
+msgid "Get an API Key"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:241
+msgid "git"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:251
+msgid "git square"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:291
+msgid "git tip"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:261
+msgid "github"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:271
+msgid "github alt"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:281
+msgid "github square"
+msgstr ""
+
+#. %1$s: Widget page HTML/URL. %s: widget admin URL.
+#: redux-framework/inc/extensions/social_profiles/social_profiles/class-redux-social-profiles.php:126
+#, php-format
+msgid ""
+"Go to the %1$s page to add the Redux Social Widget to any active widget area."
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:301
+msgid "Google"
+msgstr ""
+
+#: redux-framework/inc/extensions/google_maps/google_maps/class-redux-google-maps.php:325
+msgid "Google Map API Key"
+msgstr ""
+
+#: redux-framework/inc/extensions/google_maps/google_maps/class-redux-google-maps.php:330
+msgid "Google Map Usage Limits"
+msgstr ""
+
+#. %1$s: Google Maps API Key url. %2$s: Google Maps Usage URL.
+#: redux-framework/inc/extensions/google_maps/google_maps/class-redux-google-maps.php:333
+#, php-format
+msgid ""
+"Google Maps supports 25,000 free map loads per 24 hours for 90 consecutive "
+"days.  In the events you run a high volume site, you may need to obtain an "
+"API Key to continue using Google Map output beyond the free quota.  To sign "
+"up for an API Key, please visit the %1$s site.  For more information about "
+"Google Map usage limits, please visit the %2$s guide."
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:311
+msgid "Google Plus"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:321
+msgid "Google Plus square"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:1424
+msgid "Google Webfonts"
+msgstr ""
+
+#: functions.php:398
+msgid "Got new ad"
+msgstr ""
+
+#: redux-framework/inc/lib/gradient-filters/class-redux-gradient-filters.php:135
+#: redux-framework/inc/lib/gradient-filters/class-redux-gradient-filters.php:144
+msgid "Gradient Angle"
+msgstr ""
+
+#: redux-framework/inc/lib/gradient-filters/class-redux-gradient-filters.php:44
+msgid "Gradient Type "
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:331
+msgid "Hacker News"
+msgstr ""
+
+#: redux-framework/inc/fields/dimensions/class-redux-dimensions.php:173
+#: redux-framework/inc/fields/typography/class-redux-typography.php:597
+msgid "Height"
+msgstr ""
+
+#: redux-framework/inc/extensions/customizer/inc/class-redux-customizer-panel.php:204
+msgid "Help"
+msgstr ""
+
+#: redux-framework/inc/extensions/import_export/import_export/class-redux-import-export.php:124
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: job_post/custom-category-templates.php:58
+#: job_post/custom-category-templates.php:82
+#: job_post/custom-category-templates.php:400
+#: job_post/custom-category-templates.php:405
+#: job_post/custom-category-templates.php:421
+msgid "Hide"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-field.php:45
+msgid "Hint"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-page-render.php:214
+msgid "Hint Tooltip Preferences"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-page-render.php:198
+msgid "Hints"
+msgstr ""
+
+#. %1$s: Mouse action.  %2$s: Hint status.
+#: redux-framework/inc/classes/class-redux-page-render.php:193
+#, php-format
+msgid ""
+"Hints are tooltips that popup when %1$s the hint icon, offering addition "
+"information about the field in which they appear.  They can be %2$s by using "
+"the link below."
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:822
+#: redux-framework/inc/fields/typography/class-redux-typography.php:831
+msgid "Horizontal"
+msgstr ""
+
+#: redux-framework/inc/fields/box_shadow/class-redux-box-shadow.php:120
+msgid "Horizontal Length"
+msgstr ""
+
+#: redux-framework/inc/fields/box_shadow/class-redux-box-shadow.php:111
+msgid "Horizontal Length "
+msgstr ""
+
+#: redux-framework/inc/fields/link_color/class-redux-link-color.php:87
+msgid "Hover"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:341
+msgid "HTML5"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://themeforest.net/user/scriptsbundle"
+msgstr ""
+
+#: user_profile/index.php:329 user_profile/index.php:336
+msgid "https://www.youtube.com/watch?v=WjoplqS1u18&ab_channel=8KWorld"
+msgstr ""
+
+#. %s: URL.
+#: redux-framework/inc/classes/class-redux-cdn.php:130
+#, php-format
+msgid ""
+"If you are developing offline, please download and install the %s "
+"plugin/extension to bypass our CDN and avoid this warning"
+msgstr ""
+
+#: redux-framework/templates/panel/header.tpl.php:36
+msgid ""
+"If you are not a developer, your theme/plugin author shipped with developer "
+"mode enabled. Contact them directly to fix it."
+msgstr ""
+
+#: redux-framework/inc/themecheck/checks/class-redux-embedded.php:43
+msgid "If you are submitting to WordPress.org Theme Repository, it is"
+msgstr ""
+
+#: redux-framework/inc/welcome/class-redux-welcome.php:96
+msgid "If you like"
+msgstr ""
+
+#: redux-extensions/extensions-init.php:26
+msgid "Images are for demo purpose only."
+msgstr ""
+
+#: redux-framework/inc/extensions/import_export/import_export/class-redux-import-export.php:109
+msgid "Import"
+msgstr ""
+
+#: redux-framework/inc/extensions/import_export/class-redux-extension-import-export.php:84
+msgid "Import / Export"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:83
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:103
+msgid "Import Demo"
+msgstr ""
+
+#: redux-framework/inc/extensions/import_export/import_export/class-redux-import-export.php:83
+msgid "Import from Clipboard"
+msgstr ""
+
+#: cpt/job-board.php:1081
+msgid "import indeed jobs"
+msgstr ""
+
+#: redux-framework/inc/extensions/import_export/import_export/class-redux-import-export.php:77
+msgid "Import Options"
+msgstr ""
+
+#: functions.php:1576 functions.php:1594 functions.php:1628
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:105
+msgid "Imported"
+msgstr ""
+
+#: job_post/custom-category-templates.php:124
+#: job_post/custom-category-templates.php:497
+msgid "In Search"
+msgstr ""
+
+#: job_post/custom-category-templates.php:574
+msgid "Inactive"
+msgstr ""
+
+#: cpt/job-board.php:1080
+msgid "indeed jobs"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:135
+#: redux-framework/inc/fields/background/class-redux-background.php:150
+#: redux-framework/inc/fields/background/class-redux-background.php:168
+#: redux-framework/inc/fields/background/class-redux-background.php:186
+#: redux-framework/inc/fields/background/class-redux-background.php:205
+msgid "Inherit"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:459
+#: redux-framework/inc/fields/typography/class-redux-typography.php:495
+#: redux-framework/inc/fields/typography/class-redux-typography.php:521
+#: redux-framework/inc/fields/typography/class-redux-typography.php:550
+msgid "inherit"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:464
+#: redux-framework/inc/fields/typography/class-redux-typography.php:494
+msgid "initial"
+msgstr ""
+
+#: cpt/custom-feilds.php:164 cpt/custom-feilds.php:271
+msgid "Input"
+msgstr ""
+
+#: job_post/custom-category-templates.php:528
+msgid "Input - Textfield"
+msgstr ""
+
+#: cpt/custom-feilds.php:28
+msgid "Insert into item"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:351
+msgid "Instagram"
+msgstr ""
+
+#: user_profile/index.php:195 user_profile/index.php:358
+msgid "Instagram Link"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:427
+msgid "Install and Activate Extendify"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:228
+msgid "Install process for Extendify failed."
+msgstr ""
+
+#: redux-framework/class-redux-core.php:332
+msgid "Installation"
+msgstr ""
+
+#: cpt/job-board.php:1203
+msgid "Internship"
+msgstr ""
+
+#. %1$s: sanitized value.  %2$s: Old value.
+#: redux-framework/inc/validation/color/class-redux-validation-color.php:34
+#, php-format
+msgid ""
+"Invalid HTML color code %1$s. Please enter a valid code. No value was saved."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-ajax-save.php:42
+#: redux-framework/inc/classes/class-redux-ajax-select2.php:38
+msgid "Invalid security credential.  Please reload the page and try again."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-ajax-save.php:52
+#: redux-framework/inc/classes/class-redux-ajax-select2.php:42
+msgid "Invalid user capability.  Please reload the page and try again."
+msgstr ""
+
+#: index.php:361
+msgid "Is Candidate Search"
+msgstr ""
+
+#: cpt/custom-feilds.php:186 cpt/custom-feilds.php:271
+msgid "Is Field required"
+msgstr ""
+
+#: cpt/custom-feilds.php:271
+msgid "Is Field show in public profile"
+msgstr ""
+
+#: cpt/custom-feilds.php:194
+msgid "Is field show in public profile"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-helpers.php:733
+msgid "is out of date. The core version is"
+msgstr ""
+
+#: index.php:280
+msgid "Is Package Free"
+msgstr ""
+
+#: job_post/custom-category-templates.php:46
+#: job_post/custom-category-templates.php:121
+msgid "Is Required?"
+msgstr ""
+
+#: redux-framework/inc/themecheck/checks/class-redux-full-package.php:63
+msgid ""
+"It appears that you have embedded the full Redux package inside your theme. "
+"You need only embed the"
+msgstr ""
+
+#: cpt/custom-feilds.php:10
+msgid "Item Archives"
+msgstr ""
+
+#: cpt/custom-feilds.php:11
+msgid "Item Attributes"
+msgstr ""
+
+#: cpt/custom-feilds.php:30 job_post/custom-category-templates.php:655
+msgid "Items list"
+msgstr ""
+
+#: cpt/custom-feilds.php:31 job_post/custom-category-templates.php:656
+msgid "Items list navigation"
+msgstr ""
+
+#: redux-framework/inc/validation/js/class-redux-validation-js.php:27
+msgid "Javascript has been successfully escaped."
+msgstr ""
+
+#: index.php:267
+msgid "job"
+msgstr ""
+
+#: index.php:319
+msgid "Job alert"
+msgstr ""
+
+#: cpt/job-board.php:1488
+msgid "Job Applicants List"
+msgstr ""
+
+#: job_post/custom-category-templates.php:75
+msgid "Job Attachments"
+msgstr ""
+
+#: cpt/job-board.php:146
+msgid "Job Class"
+msgstr ""
+
+#: cpt/job-board.php:336
+msgid "Job Expiry"
+msgstr ""
+
+#: user_profile/index.php:41
+msgid "Jobs applied (-1 means unlimited)"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:361
+msgid "Joomla"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:371
+msgid "JS Fiddle"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:463
+msgid "justify"
+msgstr ""
+
+#: redux-framework/inc/extensions/google_maps/google_maps/class-redux-google-maps.php:284
+msgid "Latitude"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:332
+msgid "learn more"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-user-feedback.php:289
+msgid "Leave a Review"
+msgstr ""
+
+#: redux-framework/inc/fields/border/class-redux-border.php:159
+#: redux-framework/inc/fields/spacing/class-redux-spacing.php:271
+msgid "Left"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:460
+msgid "left"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:222
+msgid "Left Bottom"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:221
+msgid "Left center"
+msgstr ""
+
+#: redux-framework/inc/extensions/google_maps/google_maps/class-redux-google-maps.php:117
+msgid "Left mouse down on top of me to move me!"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:220
+msgid "Left Top"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:642
+#: redux-framework/inc/fields/typography/class-redux-typography.php:647
+#: redux-framework/inc/fields/typography/class-redux-typography.php:648
+msgid "Letter Spacing"
+msgstr ""
+
+#: cpt/job-board.php:65
+msgid "Level"
+msgstr ""
+
+#: index.php:326 index.php:332 index.php:336 index.php:380
+msgid "Like 30, 40 or 50 but must be an integer value."
+msgstr ""
+
+#: job_post/custom-category-templates.php:1285
+msgid "Like 30, 40 or 50 but must be an inter value."
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:591
+#: redux-framework/inc/fields/typography/class-redux-typography.php:596
+msgid "Line Height"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:553
+msgid "line-through"
+msgstr ""
+
+#: redux-framework/inc/lib/gradient-filters/class-redux-gradient-filters.php:53
+msgid "linear"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/class-redux-social-profiles.php:171
+msgid "Link URL"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:381
+msgid "LinkedIn"
+msgstr ""
+
+#: user_profile/index.php:189 user_profile/index.php:352
+msgid "Linkedin Link"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:391
+msgid "LinkedIn square"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:401
+msgid "Linux"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/templates.php:49
+msgid "Load Extendify template library"
+msgstr ""
+
+#: cpt/job-board.php:158
+msgid "Locations"
+msgstr ""
+
+#: redux-framework/inc/extensions/google_maps/google_maps/class-redux-google-maps.php:298
+msgid "Longitude"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:493
+msgid "lowercase"
+msgstr ""
+
+#: functions.php:1235 user_profile/index.php:258
+msgid "Male"
+msgstr ""
+
+#: cpt/job-board.php:170
+msgid "Map Countries"
+msgstr ""
+
+#: user_profile/index.php:203 user_profile/index.php:364
+msgid "Map Location"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:700
+#: redux-framework/inc/fields/typography/class-redux-typography.php:705
+msgid "Margin Bottom"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:673
+#: redux-framework/inc/fields/typography/class-redux-typography.php:678
+msgid "Margin Top"
+msgstr ""
+
+#: redux-framework/inc/extensions/google_maps/google_maps/class-redux-google-maps.php:312
+msgid "Marker Info"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:411
+msgid "MaxCDN"
+msgstr ""
+
+#. %s: Upload limit.
+#: redux-framework/inc/extensions/multi_media/multi_media/class-redux-multi-media.php:239
+#, php-format
+msgid "Maximum upload limit of %s reached/exceeded."
+msgstr ""
+
+#: user_profile/index.php:173
+msgid "May 2000"
+msgstr ""
+
+#. %1$s: URL, %2$s: close tag.
+#: redux-framework/inc/welcome/views/about.php:54
+#, php-format
+msgid ""
+"Maybe not! If you want to see what Redux is all about, click here to "
+"%1$sActivate Demo Mode%2$s."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/about.php:43
+msgid ""
+"Maybe not! These items are using Redux. If you want to keep using them, "
+"Redux will need to remain installed and activated."
+msgstr ""
+
+#: cpt/job-board.php:870
+msgid "More than one will not work"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-page-render.php:186
+msgid "moving the mouse over"
+msgstr ""
+
+#: index.php:267
+msgid "Must be an integer value."
+msgstr ""
+
+#: job_post/custom-category-templates.php:1290
+#: job_post/custom-category-templates.php:1294
+#: job_post/custom-category-templates.php:1298
+msgid "Must be an inter value."
+msgstr ""
+
+#: user_profile/index.php:26
+msgid "N/A"
+msgstr ""
+
+#: redux-framework/inc/extensions/widget_areas/class-redux-widget-areas.php:98
+#: redux-framework/inc/extensions/widget_areas/class-redux-widget-areas.php:99
+msgid "Name"
+msgstr ""
+
+#. New accordion title.
+#. Content title for new accordion.
+#: redux-framework/inc/fields/slides/class-redux-slides.php:48
+#: redux-framework/inc/fields/slides/class-redux-slides.php:233
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: job_post/custom-category-templates.php:501
+msgid "New Field"
+msgstr ""
+
+#: cpt/custom-feilds.php:16
+msgid "New Item"
+msgstr ""
+
+#: job_post/custom-category-templates.php:643
+msgid "New Item Name"
+msgstr ""
+
+#: functions.php:397
+msgid "New Job"
+msgstr ""
+
+#: index.php:293 index.php:374 cpt/custom-feilds.php:189
+#: cpt/custom-feilds.php:197 cpt/custom-feilds.php:271
+#: cpt/custom-feilds.php:271 job_post/custom-category-templates.php:68
+#: job_post/custom-category-templates.php:91
+#: job_post/custom-category-templates.php:540
+#: job_post/custom-category-templates.php:564
+msgid "No"
+msgstr ""
+
+#: redux-framework/inc/extensions/custom_fonts/custom_fonts/class-redux-custom-fonts.php:111
+msgid "No Custom Fonts Found"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:113
+msgid "No Demo Data Provided"
+msgstr ""
+
+#: job_post/custom-category-templates.php:654
+msgid "No items"
+msgstr ""
+
+#: redux-framework/inc/fields/select/class-redux-select.php:183
+#: redux-framework/inc/fields/select_image/class-redux-select-image.php:145
+msgid "No items of this type were found."
+msgstr ""
+
+#: functions.php:2073
+msgid "No job found."
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:285
+#: redux-framework/inc/fields/media/class-redux-media.php:89
+msgid "No media selected"
+msgstr ""
+
+#: user_profile/index.php:165
+msgid "No of Employees"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:131
+msgid "No Repeat"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:340
+msgid "No thanks"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-user-feedback.php:290
+msgid "No thanks / I already have"
+msgstr ""
+
+#: redux-framework/inc/extensions/custom_fonts/class-redux-extension-custom-fonts.php:622
+msgid "No valid font file was found."
+msgstr ""
+
+#. Name of the plugin
+msgid "Nokri Framework"
+msgstr ""
+
+#: cpt/job-board.php:9
+msgid "Nokri JobBoard"
+msgstr ""
+
+#: redux-framework/inc/fields/border/class-redux-border.php:173
+msgid "None"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:490
+#: redux-framework/inc/fields/typography/class-redux-typography.php:549
+msgid "none"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:522
+msgid "normal"
+msgstr ""
+
+#: job_post/custom-category-templates.php:653
+msgid "Not Found"
+msgstr ""
+
+#: cpt/custom-feilds.php:22
+msgid "Not found"
+msgstr ""
+
+#: cpt/custom-feilds.php:23
+msgid "Not found in Trash"
+msgstr ""
+
+#: functions.php:1665
+msgid "Note: This demo data is already imported."
+msgstr ""
+
+#: cpt/custom-feilds.php:169 cpt/custom-feilds.php:271
+msgid "Number"
+msgstr ""
+
+#: index.php:379
+msgid "Number Of Candidate Searches"
+msgstr ""
+
+#: index.php:335
+msgid "Number of days to featured "
+msgstr ""
+
+#: index.php:331
+msgid "Number of jobs to apply "
+msgstr ""
+
+#: functions.php:2008 cpt/job-board.php:532
+msgid "Number of vacancies"
+msgstr "Total vacancies"
+
+#: redux-framework/inc/fields/switch/class-redux-switch.php:40
+msgid "Off"
+msgstr ""
+
+#: redux-framework/inc/fields/switch/class-redux-switch.php:37
+msgid "On"
+msgstr ""
+
+#: redux-framework/inc/extensions/google_maps/google_maps/class-redux-google-maps.php:333
+msgid ""
+"Once you have obtained an API Key, please enter it in the text box below and "
+"save the options panel."
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:794
+msgid "one-time update"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:421
+msgid "OpenID"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-args.php:277
+#: redux-framework/inc/classes/class-redux-args.php:281
+#: redux-framework/inc/extensions/metaboxes/class-redux-extension-metaboxes.php:994
+msgid "Options"
+msgstr ""
+
+#: job_post/custom-category-templates.php:530
+msgid "Options - Check Box"
+msgstr ""
+
+#: job_post/custom-category-templates.php:529
+msgid "Options - Select Box"
+msgstr ""
+
+#: redux-framework/inc/extensions/options_object/class-redux-extension-options-object.php:72
+#: redux-framework/inc/extensions/options_object/options_object/class-redux-options-object.php:100
+msgid "Options Object"
+msgstr ""
+
+#: redux-framework/inc/themecheck/checks/class-redux-embedded.php:43
+msgid "or your theme will be rejected because of Redux."
+msgstr ""
+
+#: redux-framework/inc/themecheck/checks/class-redux-embedded.php:50
+msgid ""
+"or your theme will be rejected by WP.org theme submission because of Redux."
+msgstr ""
+
+#: functions.php:1236 user_profile/index.php:268
+msgid "Other"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-filesystem.php:142
+#: redux-framework/inc/classes/class-redux-filesystem.php:436
+msgid "outlined here"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:552
+msgid "overline"
+msgstr ""
+
+#: index.php:200 job_post/custom-category-templates.php:1275
+msgid "Package Essentials"
+msgstr ""
+
+#: job_post/custom-category-templates.php:1184
+msgid "Package Essentials/Adons"
+msgstr ""
+
+#: index.php:325 job_post/custom-category-templates.php:1284
+msgid "Package Expiry"
+msgstr ""
+
+#: index.php:299
+msgid "Package For"
+msgstr ""
+
+#: user_profile/index.php:7
+msgid "Package Information"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:153
+#: redux-framework/inc/fields/background/class-redux-background.php:171
+msgid "Padding Box"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:431
+msgid "Page Lines"
+msgstr ""
+
+#: job_post/custom-category-templates.php:641
+msgid "Parent Item"
+msgstr ""
+
+#: cpt/custom-feilds.php:12 job_post/custom-category-templates.php:642
+msgid "Parent Item:"
+msgstr ""
+
+#: cpt/job-board.php:1201
+msgid "Part time"
+msgstr ""
+
+#: redux-framework/inc/fields/password/class-redux-password.php:53
+msgid "Password"
+msgstr ""
+
+#: redux-framework/inc/extensions/import_export/import_export/class-redux-import-export.php:96
+msgid "Paste your clipboard data here."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-field.php:46
+msgid "Permissions"
+msgstr ""
+
+#: functions.php:1433 functions.php:1518
+msgid "Phone"
+msgstr ""
+
+#: user_profile/index.php:153 user_profile/index.php:245
+msgid "Phone No"
+msgstr ""
+
+#: redux-framework/inc/themecheck/checks/class-redux-full-package.php:50
+msgid "PHP Unit Testing"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:441
+msgid "Pied Piper"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:451
+msgid "Pied Piper alt"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:461
+msgid "Pinterest"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:471
+msgid "Pinterest square"
+msgstr ""
+
+#: redux-framework/inc/extensions/google_maps/google_maps/class-redux-google-maps.php:181
+msgid "Place"
+msgstr ""
+
+#: redux-framework/inc/fields/text/class-redux-text.php:30
+msgid "Placeholder text."
+msgstr ""
+
+#: functions.php:2050
+msgid "Please add keyword to search job."
+msgstr ""
+
+#: functions.php:2046
+msgid "Please add valid publisher id."
+msgstr ""
+
+#: cpt/job-board.php:864
+msgid ""
+"Please check only one taxonomy except categories,location,job class and "
+"skills"
+msgstr ""
+
+#: job_post/custom-category-templates.php:1053
+msgid "Please enter a valid website URL"
+msgstr ""
+
+#: redux-framework/inc/welcome/class-redux-welcome.php:96
+msgid "please leave us a"
+msgstr ""
+
+#: functions.php:2054
+msgid "Please Select country first."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-panel.php:405
+msgid "Please update them now as functionality issues could arise."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-enqueue.php:706
+msgid "Please Wait"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-cdn.php:127
+msgid ""
+"Please wait a few minutes, then try refreshing the page. Unable to load some "
+"remotely hosted scripts."
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:103
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:106
+msgid "Please Wait..."
+msgstr ""
+
+#: functions.php:1588 functions.php:1606 functions.php:1622 functions.php:1640
+#: functions.php:1654
+msgid ""
+"Please waiting for a few minutes, do not close the window or refresh the "
+"page until the data is imported."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/about.php:145
+msgid "Plugin"
+msgstr ""
+
+#: job_post/custom-category-templates.php:651
+msgid "Popular Items"
+msgstr ""
+
+#: user_profile/index.php:334
+msgid "Portfolio Video url (only youtube)"
+msgstr ""
+
+#: job_post/custom-category-templates.php:1201
+msgid "Post Ad - Adons"
+msgstr ""
+
+#: cpt/custom-feilds.php:36
+msgid "Post Type Description"
+msgstr ""
+
+#: cpt/custom-feilds.php:6
+msgctxt "Post Type General Name"
+msgid "Custom Fields"
+msgstr ""
+
+#: cpt/custom-feilds.php:7
+msgctxt "Post Type Singular Name"
+msgid "Custom Feild"
+msgstr ""
+
+#: redux-framework/inc/extensions/customizer/inc/class-redux-customizer-section.php:98
+msgid "Press return or enter to expand"
+msgstr ""
+
+#: redux-framework/inc/extensions/customizer/inc/class-redux-customizer-section.php:175
+msgid "Press return or enter to open"
+msgstr ""
+
+#: redux-framework/inc/extensions/customizer/inc/class-redux-customizer-panel.php:109
+#: redux-framework/inc/extensions/customizer/inc/class-redux-customizer-panel.php:231
+msgid "Press return or enter to open this panel"
+msgstr ""
+
+#: user_profile/index.php:136
+msgid "Private"
+msgstr ""
+
+#: user_profile/index.php:239
+msgid "Profession"
+msgstr ""
+
+#: user_profile/index.php:131
+msgid "Public"
+msgstr ""
+
+#: user_profile/index.php:327
+msgid "Put candidate video resume link (only youtube)"
+msgstr ""
+
+#: cpt/job-board.php:596
+msgid "Put Link Here"
+msgstr ""
+
+#: user_profile/index.php:212
+msgid "Put youtube video link"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:481
+msgid "QQ"
+msgstr ""
+
+#: user_profile/index.php:273
+msgid "Qualification"
+msgstr ""
+
+#: cpt/job-board.php:56
+msgid "Qualifications"
+msgstr ""
+
+#: redux-framework/inc/lib/gradient-filters/class-redux-gradient-filters.php:54
+msgid "radial"
+msgstr ""
+
+#: cpt/custom-feilds.php:165 cpt/custom-feilds.php:271
+msgid "RadioButton"
+msgstr ""
+
+#: redux-framework/inc/welcome/class-redux-welcome.php:96
+msgid "rating. A huge thank you in advance!"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:107
+msgid "Re-Import"
+msgstr ""
+
+#: cpt/job-board.php:287
+msgid "Read More."
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:491
+msgid "Rebel"
+msgstr ""
+
+#: redux-framework/inc/themecheck/checks/class-redux-embedded.php:43
+#: redux-framework/inc/themecheck/checks/class-redux-embedded.php:63
+msgid "RECOMMENDED"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:501
+msgid "Reddit"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:511
+msgid "Reddit square"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-args.php:270
+#: redux-framework/inc/classes/class-redux-user-feedback.php:319
+#: redux-framework/inc/welcome/class-redux-welcome.php:113
+msgid "Redux"
+msgstr ""
+
+#: redux-framework/inc/themecheck/checks/class-redux-full-package.php:48
+msgid "Redux Boostrap Tests"
+msgstr ""
+
+#: redux-framework/inc/themecheck/checks/class-redux-full-package.php:45
+msgid "Redux Code Styles"
+msgstr ""
+
+#: redux-framework/class-redux-core.php:324
+msgid "Redux Framework"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-api.php:376
+msgid "Redux Framework is not installed. Please install it."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-args.php:343
+msgid "Redux Framework Notice"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-args.php:360
+msgid "Redux Framework Notice:"
+msgstr ""
+
+#. %s: CDN handle.
+#: redux-framework/inc/classes/class-redux-cdn.php:134
+msgid "Redux Framework Warning"
+msgstr ""
+
+#. %s = Instance name.
+#: redux-framework/class-redux-core.php:373
+#, php-format
+msgid "Redux Instance: %s"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/about.php:21
+#: redux-framework/inc/welcome/views/templates.php:19
+msgid ""
+"Redux is the world's most powerful and widely used WordPress interface "
+"builder. We are trusted by millions of developers and end users world-wide."
+msgstr ""
+
+#: redux-framework/inc/themecheck/checks/class-redux-full-package.php:43
+msgid "Redux localization utilities"
+msgstr ""
+
+#: redux-framework/inc/themecheck/checks/class-redux-full-package.php:47
+msgid "Redux Plugin File"
+msgstr ""
+
+#: redux-framework/inc/themecheck/checks/class-redux-full-package.php:44
+msgid "Redux Resting Diles"
+msgstr ""
+
+#: redux-framework/inc/themecheck/checks/class-redux-full-package.php:46
+msgid "Redux Unit Testing"
+msgstr ""
+
+#. %s = WP Site Health Screen URL.
+#: redux-framework/inc/classes/class-redux-panel.php:106
+#, php-format
+msgid ""
+"Redux will send the debug information found on the %s and your Redux config "
+"to our secure server.  Are you ready to proceed?"
+msgstr ""
+
+#: functions.php:1434
+msgid "Reg Date"
+msgstr ""
+
+#: functions.php:1519
+msgid "Regd date"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:327
+#, php-format
+msgid ""
+"Register <strong>%1$s</strong> to enable automatic Google Font updates "
+"service. Plus unlock all free block templates in the Redux template library."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:339
+msgid "Register Now"
+msgstr ""
+
+#: cpt/job-board.php:1553
+msgid "Registeration Date : "
+msgstr ""
+
+#: cpt/custom-feilds.php:91
+msgid "Registration"
+msgstr ""
+
+#: cpt/job-board.php:187 cpt/job-board.php:205
+#: redux-framework/inc/fields/link_color/class-redux-link-color.php:65
+msgid "Regular"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-args.php:134
+msgid "Regular 400"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-args.php:138
+msgid "Regular 400 Italic"
+msgstr ""
+
+#: cpt/job-board.php:182 cpt/job-board.php:195
+msgid "Regular Job Info"
+msgstr ""
+
+#: cpt/job-board.php:1216
+msgid "Relevance "
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:909
+msgid "Reload the page"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:337
+#: redux-framework/inc/fields/media/class-redux-media.php:249
+#: redux-framework/inc/fields/multi_text/class-redux-multi-text.php:60
+#: redux-framework/inc/fields/multi_text/class-redux-multi-text.php:77
+#: redux-framework/inc/fields/multi_text/class-redux-multi-text.php:99
+#: redux-framework/inc/fields/slides/class-redux-slides.php:116
+#: redux-framework/inc/fields/slides/class-redux-slides.php:251
+#: redux-framework/inc/extensions/multi_media/multi_media/class-redux-multi-media.php:148
+#: redux-framework/inc/extensions/multi_media/multi_media/class-redux-multi-media.php:230
+msgid "Remove"
+msgstr ""
+
+#: cpt/custom-feilds.php:26
+msgid "Remove featured image"
+msgstr ""
+
+#: job_post/custom-category-templates.php:495
+msgid "Remove Field"
+msgstr ""
+
+#: redux-framework/inc/extensions/multi_media/multi_media/class-redux-multi-media.php:123
+#: redux-framework/inc/extensions/multi_media/multi_media/class-redux-multi-media.php:229
+msgid "Remove Image"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:521
+msgid "Ren Ren"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:132
+msgid "Repeat All"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:133
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:134
+msgid "Repeat Vertically"
+msgstr ""
+
+#: cpt/job-board.php:493
+msgid "Report Details"
+msgstr ""
+
+#: redux-framework/inc/themecheck/checks/class-redux-embedded.php:50
+msgid "REQUIRED"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-field.php:47
+msgid "Required"
+msgstr ""
+
+#: job_post/custom-category-templates.php:494
+msgid "Required?"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/class-redux-social-profiles.php:227
+msgid "Reset"
+msgstr ""
+
+#: redux-framework/templates/panel/footer.tpl.php:63
+#: redux-framework/templates/panel/header-stickybar.tpl.php:27
+msgid "Reset All"
+msgstr ""
+
+#: redux-framework/templates/panel/footer.tpl.php:62
+#: redux-framework/templates/panel/header-stickybar.tpl.php:26
+msgid "Reset Section"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:907
+msgid "Retry?"
+msgstr ""
+
+#: redux-framework/inc/fields/border/class-redux-border.php:135
+#: redux-framework/inc/fields/spacing/class-redux-spacing.php:239
+msgid "Right"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:461
+msgid "right"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:228
+msgid "Right Bottom"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:227
+msgid "Right center"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:226
+msgid "Right Top"
+msgstr ""
+
+#: cpt/job-board.php:74
+msgid "Salary"
+msgstr ""
+
+#: user_profile/index.php:319
+msgid "Salary Currency"
+msgstr ""
+
+#: user_profile/index.php:311
+msgid "Salary Range"
+msgstr ""
+
+#: cpt/job-board.php:83 user_profile/index.php:303
+msgid "Salary Type"
+msgstr ""
+
+#. %1$s: sanitized value.  %2$s: Old value.
+#: redux-framework/inc/validation/color/class-redux-validation-color.php:46
+#, php-format
+msgid "Sanitized value and saved as %1$s instead of %2$s."
+msgstr ""
+
+#: redux-framework/templates/panel/footer.tpl.php:58
+#: redux-framework/templates/panel/header-stickybar.tpl.php:22
+msgid "Save Changes"
+msgstr ""
+
+#. Author of the plugin
+msgid "scriptsbundle"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:204
+msgid "Scroll"
+msgstr ""
+
+#: redux-framework/inc/extensions/search/class-redux-extension-search.php:101
+msgid "Search for field(s)"
+msgstr ""
+
+#: cpt/custom-feilds.php:21
+msgid "Search Item"
+msgstr ""
+
+#: job_post/custom-category-templates.php:652
+msgid "Search Items"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-panel.php:208
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:136
+msgid "Security check failed."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-health.php:52
+msgid "Security token"
+msgstr ""
+
+#: cpt/job-board.php:628
+msgid "Select address"
+msgstr ""
+
+#: job_post/custom-category-templates.php:1206
+msgid "Select Adons"
+msgstr ""
+
+#: redux-framework/inc/fields/select/class-redux-select.php:106
+#: redux-framework/inc/fields/select_image/class-redux-select-image.php:26
+msgid "Select an item"
+msgstr ""
+
+#: cpt/custom-feilds.php:161 cpt/custom-feilds.php:271
+msgid "select an option"
+msgstr ""
+
+#: cpt/job-board.php:434
+msgid "Select Author"
+msgstr ""
+
+#: cpt/custom-feilds.php:166 cpt/custom-feilds.php:271
+msgid "Select Box"
+msgstr ""
+
+#: redux-framework/inc/fields/color_rgba/class-redux-color-rgba.php:45
+msgid "Select Color"
+msgstr ""
+
+#: redux-framework/inc/extensions/multi_media/multi_media/class-redux-multi-media.php:228
+msgid "Select File(s)"
+msgstr ""
+
+#: cpt/job-board.php:1199
+msgid "Select Job type"
+msgstr ""
+
+#: functions.php:1922 cpt/job-board.php:186 cpt/job-board.php:210
+#: cpt/job-board.php:553 cpt/job-board.php:898
+#: job_post/custom-category-templates.php:492
+#: job_post/custom-category-templates.php:527
+#: job_post/custom-category-templates.php:562
+#: job_post/custom-category-templates.php:572
+#: job_post/custom-category-templates.php:850
+#: job_post/custom-category-templates.php:1196
+msgid "Select Option"
+msgstr ""
+
+#: index.php:363
+msgid "Select Option For Candidate Search"
+msgstr ""
+
+#: index.php:282 index.php:301
+msgid "Select Option For Package"
+msgstr ""
+
+#: cpt/job-board.php:184 cpt/job-board.php:199
+msgid "Select regular for free jobs"
+msgstr ""
+
+#: cpt/custom-feilds.php:163 cpt/custom-feilds.php:271
+msgid "Select Required Field"
+msgstr ""
+
+#: job_post/custom-category-templates.php:847
+msgid "Select Template"
+msgstr ""
+
+#: cpt/job-board.php:437
+msgid "Select to change"
+msgstr ""
+
+#: user_profile/index.php:108 user_profile/index.php:126
+msgid "Selet an option"
+msgstr ""
+
+#: job_post/custom-category-templates.php:648
+msgid "Separate items with commas"
+msgstr ""
+
+#: cpt/job-board.php:1549
+msgid "Serial No : "
+msgstr ""
+
+#: cpt/custom-feilds.php:25
+msgid "Set featured image"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-panel.php:256
+#: redux-framework/inc/extensions/metaboxes/class-redux-extension-metaboxes.php:1217
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-panel.php:166
+#: redux-framework/inc/extensions/metaboxes/class-redux-extension-metaboxes.php:1213
+msgid "Settings Imported!"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-panel.php:229
+msgid "Settings Saved!"
+msgstr ""
+
+#: redux-framework/inc/fields/box_shadow/class-redux-box-shadow.php:92
+msgid "Shadow"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:805
+msgid "Shadow Color"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:810
+msgid "Shadow color"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:531
+msgid "Share alt"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:541
+msgid "Share square"
+msgstr ""
+
+#: cpt/job-board.php:111
+msgid "Shift"
+msgstr ""
+
+#: job_post/custom-category-templates.php:57
+#: job_post/custom-category-templates.php:81
+#: job_post/custom-category-templates.php:399
+#: job_post/custom-category-templates.php:404
+#: job_post/custom-category-templates.php:420
+msgid "Show"
+msgstr ""
+
+#: redux-framework/inc/extensions/options_object/options_object/class-redux-options-object.php:106
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: job_post/index.php:41
+msgid "Simple"
+msgstr ""
+
+#: job_post/custom-category-templates.php:1289
+msgid "Simple Ads"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:575
+msgid "Size"
+msgstr ""
+
+#: cpt/job-board.php:120
+msgid "Skills"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:551
+msgid "Skype"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:561
+msgid "Slack"
+msgstr ""
+
+#: redux-framework/inc/fields/slides/class-redux-slides.php:32
+msgid "Slide"
+msgstr ""
+
+#: job_post/custom-category-templates.php:490
+msgid "Slug Name"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:523
+msgid "small-caps"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-widget.php:192
+msgid "Social"
+msgstr ""
+
+#: redux-framework/inc/fields/border/class-redux-border.php:169
+msgid "Solid"
+msgstr ""
+
+#: functions.php:2063
+msgid "Something went wrong."
+msgstr ""
+
+#: cpt/job-board.php:1214
+msgid "Sort by"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:571
+msgid "Sound Cloud"
+msgstr ""
+
+#: cpt/job-board.php:128
+msgid "Specilization"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:581
+msgid "Spotify"
+msgstr ""
+
+#: redux-framework/inc/fields/box_shadow/class-redux-box-shadow.php:192
+msgid "Spread"
+msgstr ""
+
+#: redux-framework/inc/fields/box_shadow/class-redux-box-shadow.php:183
+msgid "Spread "
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:591
+msgid "Stack Exchange"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:601
+msgid "Stack Overflow"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:1341
+msgid "Standard Fonts"
+msgstr ""
+
+#: cpt/job-board.php:1265
+msgid "Start date"
+msgstr ""
+
+#: redux-framework/inc/extensions/google_maps/google_maps/class-redux-google-maps.php:242
+msgid "State"
+msgstr ""
+
+#: cpt/job-board.php:504
+msgid "Static feilds"
+msgstr ""
+
+#: job_post/custom-category-templates.php:43
+#: job_post/custom-category-templates.php:118
+#: job_post/custom-category-templates.php:496
+msgid "Status"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:611
+msgid "Steam"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:621
+msgid "Steam square"
+msgstr ""
+
+#: redux-framework/inc/extensions/google_maps/google_maps/class-redux-google-maps.php:214
+msgid "Street"
+msgstr ""
+
+#: redux-framework/inc/themecheck/checks/class-redux-embedded.php:43
+msgid "strongly"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:631
+msgid "Stumble Upon"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:641
+msgid "Stumble Upon circle"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:403
+msgid "Style"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-panel.php:104
+msgid "Submit Support Information?"
+msgstr ""
+
+#: cpt/job-board.php:480
+msgid "Submitted Job Reports"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:429
+msgid "Subsets"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-field.php:39
+msgid "Subtitle"
+msgstr ""
+
+#: redux-framework/inc/themecheck/checks/class-redux-embedded.php:43
+msgid "suggested that you read"
+msgstr ""
+
+#: cpt/job-board.php:137
+msgid "Tags"
+msgstr ""
+
+#: job_post/custom-category-templates.php:637
+msgctxt "Taxonomy General Name"
+msgid "Category Templates"
+msgstr ""
+
+#: job_post/custom-category-templates.php:638
+msgctxt "Taxonomy Singular Name"
+msgid "Category Template"
+msgstr ""
+
+#: redux-framework/inc/welcome/class-redux-welcome.php:117
+#: redux-framework/inc/welcome/class-redux-welcome.php:192
+msgid "Templates"
+msgstr ""
+
+#: cpt/job-board.php:1204
+msgid "Temporary"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:651
+msgid "Tencent Weibo"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/class-redux-social-profiles.php:234
+msgid "Text"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:445
+#: redux-framework/inc/fields/typography/class-redux-typography.php:446
+#: redux-framework/inc/fields/typography/class-redux-typography.php:448
+#: redux-framework/inc/fields/typography/class-redux-typography.php:450
+msgid "Text Align"
+msgstr ""
+
+#: cpt/custom-feilds.php:167 cpt/custom-feilds.php:271
+msgid "Text Area"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:535
+#: redux-framework/inc/fields/typography/class-redux-typography.php:536
+#: redux-framework/inc/fields/typography/class-redux-typography.php:538
+#: redux-framework/inc/fields/typography/class-redux-typography.php:540
+msgid "Text Decoration"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:476
+#: redux-framework/inc/fields/typography/class-redux-typography.php:477
+#: redux-framework/inc/fields/typography/class-redux-typography.php:479
+#: redux-framework/inc/fields/typography/class-redux-typography.php:481
+msgid "Text Transform"
+msgstr ""
+
+#: redux-framework/inc/validation/unique_slug/class-redux-validation-unique-slug.php:29
+msgid "That URL slug is in use, please choose another."
+msgstr ""
+
+#: redux-framework/inc/extensions/repeater/repeater/class-redux-repeater.php:160
+msgid "The"
+msgstr ""
+
+#. %s: Vendor support URL. %s: Admin plugins page.
+#: redux-framework/inc/classes/class-redux-cdn.php:182
+#, php-format
+msgid ""
+"The %1$s (or extension) is either not installed or not activated and thus, "
+"some controls may not render properly.  Please ensure that it is installed "
+"and %2$s"
+msgstr ""
+
+#. %1$s Extension friendly name. %2$s: minimum Redux version.
+#: redux-framework/inc/classes/class-redux-extension-abstract.php:221
+#, php-format
+msgid "The %1$s extension requires Redux Framework version %2$s or higher."
+msgstr ""
+
+#. %s is the name of an extension
+#: redux-framework/inc/classes/class-redux-extensions.php:96
+#, php-format
+msgid "The `%s` extension was not located properly"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-rest-api-builder.php:68
+#: redux-framework/inc/classes/class-redux-rest-api-builder.php:83
+msgid "The field type"
+msgstr ""
+
+#: redux-framework/inc/themecheck/checks/class-redux-embedded.php:63
+msgid ""
+"The following arguments MUST be used for WP.org submissions, or you will be "
+"rejected because of your Redux configuration."
+msgstr ""
+
+#: redux-framework/inc/extensions/custom_fonts/class-redux-extension-custom-fonts.php:598
+msgid "The font format .eot is not supported."
+msgstr ""
+
+#: redux-framework/inc/extensions/custom_fonts/custom_fonts/class-redux-custom-fonts.php:180
+msgid ""
+"The only file(s) imported were those uploaded.  Please refresh the page to "
+"continue (making note of any errors before doing so, please)."
+msgstr ""
+
+#: redux-framework/class-redux-core.php:318
+msgid "The Redux upload directory"
+msgstr ""
+
+#: redux-framework/inc/extensions/google_maps/google_maps/class-redux-google-maps.php:118
+msgid "The returned place contains no geometric data."
+msgstr ""
+
+#: redux-framework/inc/fields/text/class-redux-text.php:27
+msgid ""
+"The Text field accepts any form of text and optionally validates the text "
+"before saving the value."
+msgstr ""
+
+#: redux-framework/inc/welcome/views/about.php:93
+msgid "Theme"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-args.php:361
+msgid ""
+"There are references to the Redux Framework support site in your config's"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-args.php:344
+msgid ""
+"There are references to the Redux Framework support site in your config's "
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-enqueue.php:722
+msgid ""
+"There was a problem with your action. Please try again or reload the page."
+msgstr ""
+
+#: redux-framework/inc/extensions/custom_fonts/custom_fonts/class-redux-custom-fonts.php:177
+msgid "There was an error deleting your font:"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-enqueue.php:718
+msgid "There was an error saving. Here is the result of your action:"
+msgstr ""
+
+#: redux-framework/inc/themecheck/checks/class-redux-embedded.php:43
+msgid "this document"
+msgstr ""
+
+#: redux-framework/inc/validation/not_empty/class-redux-validation-not-empty.php:27
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: functions.php:1921
+msgid "This field is required"
+msgstr ""
+
+#: functions.php:1976 functions.php:1993
+msgid "This field is required."
+msgstr ""
+
+#: redux-framework/inc/validation/date/class-redux-validation-date.php:27
+msgid "This field must be a valid date."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-extension-abstract.php:221
+msgid ""
+"This field will not render in your option panel, and features of this "
+"extension will not be available until the latest version of Redux Framework "
+"has been installed."
+msgstr ""
+
+#: redux-framework/templates/panel/header.tpl.php:34
+msgid "This has been automatically enabled because"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin is essential for the proper theme funcationality."
+msgstr ""
+
+#: cpt/job-board.php:287
+msgid "This should be follow ISO2 like"
+msgstr ""
+
+#: job_post/custom-category-templates.php:109
+msgid "Those are default fields you can show or hide them."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-field.php:38
+#: redux-framework/inc/fields/slides/class-redux-slides.php:128
+#: redux-framework/inc/fields/slides/class-redux-slides.php:263
+#: redux-framework/inc/extensions/repeater/repeater/class-redux-repeater.php:143
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-widget.php:199
+msgid "Title"
+msgstr ""
+
+#: redux-framework/inc/lib/gradient-filters/class-redux-gradient-filters.php:105
+#: redux-framework/inc/lib/gradient-filters/class-redux-gradient-filters.php:114
+msgid "To Reach"
+msgstr ""
+
+#: redux-framework/inc/fields/border/class-redux-border.php:123
+#: redux-framework/inc/fields/spacing/class-redux-spacing.php:223
+#: redux-framework/inc/fields/typography/class-redux-typography.php:679
+msgid "Top"
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:121
+#: redux-framework/inc/fields/color/class-redux-color.php:76
+#: redux-framework/inc/fields/color_gradient/class-redux-color-gradient.php:132
+msgid "Transparent"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:661
+msgid "Trello"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:671
+msgid "Tumblr"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:681
+msgid "Tumblr square"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:691
+msgid "Twitter"
+msgstr ""
+
+#: user_profile/index.php:183 user_profile/index.php:346
+msgid "Twitter Link"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:701
+msgid "Twitter square"
+msgstr ""
+
+#: cpt/job-board.php:47 user_profile/index.php:287
+#: redux-framework/inc/lib/gradient-filters/class-redux-gradient-filters.php:47
+msgid "Type"
+msgstr "types"
+
+#: redux-framework/inc/extensions/metaboxes/class-redux-metaboxes-api.php:636
+msgid ""
+"Unable to create a box due an empty box array or the box variable passed was "
+"not an array."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-api.php:773
+#: redux-framework/inc/extensions/metaboxes/class-redux-metaboxes-api.php:448
+msgid ""
+"Unable to create a section due an empty section array or the section "
+"variable passed was not an array."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-api.php:756
+msgid "Unable to create a section due to missing id and title."
+msgstr ""
+
+#: redux-framework/inc/extensions/custom_fonts/class-redux-extension-custom-fonts.php:325
+msgid "Unable to delete font file(s)."
+msgstr ""
+
+#: redux-framework/inc/validation/html_custom/class-redux-validation-html-custom.php:27
+msgid "Unallowed HTML was found in this field and has been removed."
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:551
+msgid "underline"
+msgstr ""
+
+#: redux-framework/inc/extensions/custom_fonts/class-redux-extension-custom-fonts.php:569
+msgid "Unidentified error."
+msgstr ""
+
+#: redux-framework/inc/fields/dimensions/class-redux-dimensions.php:194
+#: redux-framework/inc/fields/dimensions/class-redux-dimensions.php:198
+#: redux-framework/inc/fields/dimensions/class-redux-dimensions.php:200
+#: redux-framework/inc/fields/spacing/class-redux-spacing.php:282
+#: redux-framework/inc/fields/spacing/class-redux-spacing.php:283
+#: redux-framework/inc/fields/spacing/class-redux-spacing.php:283
+msgid "Units"
+msgstr ""
+
+#: redux-framework/inc/validation/css/class-redux-validation-css.php:27
+msgid "Unsafe strings were found in your CSS and have been filtered out."
+msgstr ""
+
+#: redux-framework/inc/extensions/custom_fonts/custom_fonts/class-redux-custom-fonts.php:178
+msgid "Unzipping archive and generating any missing font files."
+msgstr ""
+
+#: redux-framework/inc/extensions/custom_fonts/class-redux-extension-custom-fonts.php:485
+msgid "Unzipping failed."
+msgstr ""
+
+#: redux-framework/inc/extensions/custom_fonts/custom_fonts/class-redux-custom-fonts.php:184
+msgid "Update"
+msgstr ""
+
+#: job_post/index.php:6
+msgid "Update AD"
+msgstr ""
+
+#. Aria title, link title.
+#: redux-framework/inc/fields/typography/class-redux-typography.php:907
+#, php-format
+msgid "Update Failed|msg. %1$s"
+msgstr ""
+
+#: cpt/custom-feilds.php:18 job_post/custom-category-templates.php:646
+msgid "Update Item"
+msgstr ""
+
+#: job_post/index.php:15
+msgid "Update this AD"
+msgstr ""
+
+#. Javascript reload command, link title.
+#: redux-framework/inc/fields/typography/class-redux-typography.php:909
+#, php-format
+msgid "Updated! %1$s to start using your updated fonts."
+msgstr ""
+
+#: redux-framework/inc/fields/background/class-redux-background.php:330
+#: redux-framework/inc/fields/media/class-redux-media.php:242
+#: redux-framework/inc/fields/slides/class-redux-slides.php:105
+#: redux-framework/inc/fields/slides/class-redux-slides.php:249
+msgid "Upload"
+msgstr ""
+
+#: redux-framework/inc/extensions/import_export/import_export/class-redux-import-export.php:89
+msgid "Upload file"
+msgstr ""
+
+#: functions.php:1984
+msgid "upload with a max file size of "
+msgstr ""
+
+#: cpt/custom-feilds.php:29
+msgid "Uploaded to this item"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:492
+msgid "uppercase"
+msgstr ""
+
+#: redux-framework/inc/fields/slides/class-redux-slides.php:152
+#: redux-framework/inc/fields/slides/class-redux-slides.php:288
+msgid "URL"
+msgstr ""
+
+#: cpt/job-board.php:287
+msgid "US"
+msgstr ""
+
+#: cpt/custom-feilds.php:27
+msgid "Use as featured image"
+msgstr ""
+
+#: cpt/job-board.php:1550
+msgid "User ID :  "
+msgstr ""
+
+#: user_profile/index.php:95
+msgid "User Profile Information"
+msgstr ""
+
+#: user_profile/index.php:123
+msgid "User Profile Setting"
+msgstr ""
+
+#: functions.php:1246 functions.php:1532 functions.php:1539
+#: user_profile/index.php:105
+msgid "User Type"
+msgstr ""
+
+#: redux-framework/inc/fields/password/class-redux-password.php:54
+msgid "Username"
+msgstr ""
+
+#: cpt/job-board.php:1551
+msgid "Username : "
+msgstr ""
+
+#: redux-framework/class-redux-core.php:328
+#: redux-framework/inc/welcome/views/about.php:25
+#: redux-framework/inc/welcome/views/about.php:131
+#: redux-framework/inc/welcome/views/templates.php:23
+msgid "Version"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-helpers.php:733
+msgid "version"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/about.php:81
+msgid "Version:"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:839
+#: redux-framework/inc/fields/typography/class-redux-typography.php:848
+msgid "Vertical"
+msgstr ""
+
+#: redux-framework/inc/fields/box_shadow/class-redux-box-shadow.php:144
+msgid "Vertical Length"
+msgstr ""
+
+#: redux-framework/inc/fields/box_shadow/class-redux-box-shadow.php:135
+msgid "Vertical Length "
+msgstr ""
+
+#: user_profile/index.php:210
+msgid "Video Link"
+msgstr ""
+
+#: job_post/custom-category-templates.php:51
+msgid "Video URL"
+msgstr ""
+
+#: cpt/custom-feilds.php:19 job_post/custom-category-templates.php:647
+msgid "View Item"
+msgstr ""
+
+#: cpt/custom-feilds.php:20
+msgid "View Items"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:711
+msgid "Vimeo square"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:721
+msgid "Vine"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-connection-banner.php:404
+msgid "Visit our website to learn more!"
+msgstr ""
+
+#: redux-framework/inc/fields/link_color/class-redux-link-color.php:109
+msgid "Visited"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:731
+msgid "VK"
+msgstr ""
+
+#: redux-framework/inc/extensions/import_export/import_export/class-redux-import-export.php:112
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-panel.php:285
+#: redux-framework/inc/extensions/metaboxes/class-redux-extension-metaboxes.php:1225
+msgid "warning(s) were found!"
+msgstr ""
+
+#. This is only shown to developers, should not impact users.
+#: redux-framework/inc/classes/class-redux-api.php:144
+msgid "Warning, Premature Initialization"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-panel.php:86
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: redux-framework/inc/extensions/metaboxes/class-redux-extension-metaboxes.php:1533
+msgid "warnings(s) were found!"
+msgstr ""
+
+#. This is only shown to developers, should not impact users.
+#: redux-framework/inc/classes/class-redux-api.php:147
+#, php-format
+msgid "was run before the %s hook and was delayed to avoid errors."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-filesystem.php:142
+#: redux-framework/inc/classes/class-redux-filesystem.php:436
+#, php-format
+msgid ""
+"We were unable to modify required files. Please ensure that %1$s has the "
+"proper read-write permissions, or modify your wp-config.php file to contain "
+"your FTP login credentials as %2$s."
+msgstr ""
+
+#: user_profile/index.php:159
+msgid "Website"
+msgstr ""
+
+#: job_post/custom-category-templates.php:532
+msgid "Website URL"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:741
+msgid "Weibo"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:751
+msgid "Weixin"
+msgstr ""
+
+#: redux-framework/inc/welcome/views/about.php:17
+#: redux-framework/inc/welcome/views/templates.php:15
+msgid "Welcome to"
+msgstr ""
+
+#: redux-framework/inc/welcome/class-redux-welcome.php:113
+msgid "What is Redux Framework?"
+msgstr ""
+
+#: redux-framework/inc/welcome/class-redux-welcome.php:186
+msgid "What is Redux?"
+msgstr ""
+
+#: cpt/job-board.php:620
+msgid "Whatsapp number"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/class-redux-social-profiles.php:126
+msgid "Widgets"
+msgstr ""
+
+#: redux-framework/inc/fields/dimensions/class-redux-dimensions.php:144
+msgid "Width"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:761
+msgid "Windows"
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:619
+#: redux-framework/inc/fields/typography/class-redux-typography.php:624
+#: redux-framework/inc/fields/typography/class-redux-typography.php:625
+msgid "Word Spacing"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:771
+msgid "WordPress"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-panel.php:106
+msgid "WordPress Site Health screen"
+msgstr ""
+
+#: redux-framework/templates/panel/footer.tpl.php:67
+#: redux-framework/templates/panel/header-stickybar.tpl.php:31
+msgid "Working..."
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:281
+msgid "Works best to import on a new install of WordPress"
+msgstr ""
+
+#: redux-framework/templates/panel/header.tpl.php:20
+msgid "WP_DEBUG is enabled"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:781
+msgid "Xing"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:791
+msgid "Xing square"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:801
+msgid "Yahoo"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:811
+msgid "Yelp"
+msgstr ""
+
+#: index.php:288 index.php:369 cpt/custom-feilds.php:188
+#: cpt/custom-feilds.php:196 cpt/custom-feilds.php:271
+#: cpt/custom-feilds.php:271 job_post/custom-category-templates.php:67
+#: job_post/custom-category-templates.php:90
+#: job_post/custom-category-templates.php:539
+#: job_post/custom-category-templates.php:563
+msgid "Yes"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-extension-abstract.php:221
+msgid "You are currently running Redux Framework version "
+msgstr ""
+
+#. %s is the site/panel title in the Customizer
+#: redux-framework/inc/extensions/customizer/inc/class-redux-customizer-panel.php:138
+#: redux-framework/inc/extensions/customizer/inc/class-redux-customizer-panel.php:197
+msgid "You are customizing"
+msgstr ""
+
+#: redux-framework/templates/panel/header.tpl.php:26
+msgid "you are working in a localhost environment"
+msgstr ""
+
+#: job_post/custom-category-templates.php:854
+msgid ""
+"You can assign this template to only 1st level category. It will not work "
+"with sub categories."
+msgstr ""
+
+#. 1. Name, 2. Time
+#: redux-framework/inc/classes/class-redux-user-feedback.php:285
+#, php-format
+msgid ""
+"You have been using %1$s for %2$s now. Would you mind leaving a review to "
+"let us know know what you think? We'd really appreciate it!"
+msgstr ""
+
+#: redux-framework/inc/extensions/customizer/class-redux-extension-customizer.php:750
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-enqueue.php:627
+#: redux-framework/inc/extensions/customizer/class-redux-extension-customizer.php:726
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: redux-framework/inc/themecheck/checks/class-redux-embedded.php:50
+msgid "You MUST delete"
+msgstr ""
+
+#: redux-framework/inc/validation/no_html/class-redux-validation-no-html.php:27
+msgid "You must not enter any HTML in this field.  All HTML has been removed."
+msgstr ""
+
+#: redux-framework/inc/validation/no_special_chars/class-redux-validation-no-special-chars.php:27
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: redux-framework/inc/validation/comma_numeric/class-redux-validation-comma-numeric.php:34
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: redux-framework/inc/validation/numeric/class-redux-validation-numeric.php:27
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: redux-framework/inc/validation/email/class-redux-validation-email.php:27
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: redux-framework/inc/validation/url/class-redux-validation-url.php:27
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-enqueue.php:691
+msgid ""
+"Your current options will be replaced with the values of this import. Would "
+"you like to proceed?"
+msgstr ""
+
+#: redux-framework/inc/extensions/customizer/class-redux-extension-customizer.php:752
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-enqueue.php:675
+#: redux-framework/inc/extensions/customizer/class-redux-extension-customizer.php:728
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: redux-framework/inc/extensions/custom_fonts/class-redux-extension-custom-fonts.php:674
+msgid "Your font could not be converted at this time. Please try again later."
+msgstr ""
+
+#: redux-framework/inc/fields/typography/class-redux-typography.php:793
+msgid ""
+"Your Google Fonts are out of date. To update them, please click one of the "
+"following:"
+msgstr ""
+
+#: functions.php:356
+msgid "Your new password"
+msgstr ""
+
+#: functions.php:357
+msgid "Your new password is: "
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-panel.php:405
+msgid ""
+"Your panel has bundled copies of Redux Framework template files that are "
+"outdated!"
+msgstr ""
+
+#: redux-framework/inc/classes/class-redux-ajax-save.php:114
+msgid "Your panel has no fields. Nothing to save."
+msgstr ""
+
+#: redux-framework/inc/extensions/import_export/import_export/class-redux-import-export.php:168
+msgid "Your panel has unchanged values, would you like to save them now?"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:821
+msgid "YouTube"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:831
+msgid "YouTube play"
+msgstr ""
+
+#: redux-framework/inc/extensions/social_profiles/social_profiles/inc/class-redux-social-profiles-defaults.php:841
+msgid "YouTube square"
+msgstr ""
+
+#: functions.php:1966
+msgid "Youtube Video Link"
+msgstr ""
+
+#: redux-framework/inc/extensions/google_maps/google_maps/class-redux-google-maps.php:256
+msgid "ZIP Code"
+msgstr ""
+
+#: redux-framework/inc/extensions/custom_fonts/class-redux-extension-custom-fonts.php:712
+msgid ""
+"ZIP error. Your font could not be converted at this time. Please try again "
+"later."
+msgstr ""
