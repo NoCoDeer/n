@@ -514,14 +514,21 @@ if (!function_exists('nokri_get_location')) {
         global $nokri_theme;
         $api_key = $nokri_theme['gmap_api_key'];
         
-        return '<script>
-            document.addEventListener("DOMContentLoaded", function(){
-                if (typeof nokriLoadGmap === "function") {
-                    nokriLoadGmap().then(function(){
-                        if(typeof ' . $call_back . ' === "function"){ ' . $call_back . '(); }
-                    }).catch(function(err){ console.error(err); });
-                }
-            });
+        return '
+        <script>
+            function loadGoogleMaps() {
+                const script = document.createElement("script");
+                script.src = "https://maps.googleapis.com/maps/api/js?key=' . $api_key . '&libraries=places&callback=' . $call_back . '&loading=async";
+                script.async = true;
+                script.defer = true;
+                document.head.appendChild(script);
+            }
+            
+            if (document.readyState === "complete") {
+                loadGoogleMaps();
+            } else {
+                window.addEventListener("load", loadGoogleMaps);
+            }
         </script>';
     }
 }
