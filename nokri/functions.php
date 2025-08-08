@@ -243,11 +243,13 @@ function nokri_resoucres() {
             }
             $tab_data = isset($_GET['tab-data']) ? $_GET['tab-data'] : 'no';
             if (isset($_GET['tab-data']) && $_GET['tab-data'] == 'edit-profile' || isset($_GET['candidate-page']) && $_GET['candidate-page'] == 'edit-profile' || wp_basename(get_page_template()) == 'page-job-post.php' || wp_basename(get_page_template()) == 'page-search.php' || is_single()) {
-                echo '<script>
-                window.nokri_location = function(){
-                }
-                 </script>';
-                wp_enqueue_script('google-map', '//maps.googleapis.com/maps/api/js?key=' . $nokri['gmap_api_key'] . '&libraries=places&callback=' . 'nokri_location', false, false, true);
+                wp_enqueue_script('nokri-gmaps-loader', trailingslashit(get_template_directory_uri()) . 'js/gmap-loader.js', array(), false, true);
+                wp_localize_script('nokri-gmaps-loader', 'nokriGmapSettings', array(
+                    'key'       => $nokri['gmap_api_key'],
+                    'callback'  => 'nokri_location',
+                    'selectors' => '#dvMap,#googleMap,#itemMap,#contact-map',
+                    'mapId'     => '62ae976f52d8622990c44af3',
+                ));
             }
         }
     }

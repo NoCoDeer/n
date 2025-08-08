@@ -363,21 +363,13 @@ if ( ! class_exists( 'Redux_Google_Maps' ) ) {
 				$api_key = '&key=' . $this->api_key;
 			}
 
-			wp_enqueue_script(
-				'redux-field-google_maps-api',
-				'//maps.googleapis.com/maps/api/js?v=' . $this->field['map_version'] . $api_key . '&libraries=places',
-				array( 'jquery' ),
-				$this->field['map_version'],
-				true
-			);
-
-			wp_enqueue_script(
-				'redux-field-google_maps-js',
-				$this->url . 'redux-google-maps' . $min . '.js',
-				array( 'jquery', 'redux-js', 'redux-field-google_maps-api' ),
-				Redux_Extension_Google_Maps::$version,
-				true
-			);
+                        wp_enqueue_script(
+                                'redux-field-google_maps-js',
+                                $this->url . 'redux-google-maps' . $min . '.js',
+                                array( 'jquery', 'redux-js', 'nokri-gmaps-loader' ),
+                                Redux_Extension_Google_Maps::$version,
+                                true
+                        );
 
 			if ( $this->parent->args['dev_mode'] ) {
 				wp_enqueue_style(
