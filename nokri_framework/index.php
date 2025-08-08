@@ -77,7 +77,13 @@ function nokri_framework_scripts() {
         /* No Mapp In The Theme */
     } else {
         $gmap_key = Redux::get_option('nokri', 'gmap_api_key');
-        wp_enqueue_script('google-map', '//maps.googleapis.com/maps/api/js?key=' . $gmap_key . '&libraries=places&callback=' . 'nokri_location', false, false, true);
+        wp_enqueue_script('nokri-gmaps-loader', plugin_dir_url(__FILE__) . 'js/gmap-loader.js', array(), false, true);
+        wp_localize_script('nokri-gmaps-loader', 'nokriGmapSettings', array(
+            'key'       => $gmap_key,
+            'callback'  => 'nokri_location',
+            'selectors' => '#dvMap,#googleMap,#itemMap,#contact-map',
+            'mapId'     => '62ae976f52d8622990c44af3',
+        ));
     }
 
     wp_enqueue_script('custom-plugin', plugin_dir_url(__FILE__) . 'js/custom-plugin.js', false, false, true);
